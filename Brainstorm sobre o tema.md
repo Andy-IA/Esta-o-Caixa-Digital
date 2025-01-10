@@ -1,4 +1,3 @@
-# 🌟 A Relevância para Rejuvenescer a Marca Caixa 🌟 
 
 ## 🚀 Como o Projeto Contribui para Modernizar a Marca?
 
