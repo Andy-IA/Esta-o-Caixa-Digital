@@ -1,6 +1,5 @@
-# 🌟 A Relevância para Rejuvenescer a Marca Caixa 🌟
 
-## 🚀 Como o Projeto Contribui para Modernizar a Marca?
+## 🚀 Como o Projeto Poderia Contribuir para Modernizar a Marca?
 
 ### 🎯 Conexão com o Público Jovem
 - **Inovação e Tecnologia:**  
@@ -8,7 +7,7 @@
 - **Atividades que Engajam:**  
   - Games educativos.  
   - Criptomoedas com o mascote **\"Caixa Coin\"**.  
-  - Exposições tecnológicas que mostram o quanto a Caixa é atual e descolada.  
+  - Exposições sobre tecnologia e finanças  
 
 ### 💡 Fortalecimento do Propósito Social
 - **Educação Financeira:**  
@@ -18,25 +17,23 @@
 
 ### 📱 Modernização da Jornada do Cliente
 - **Serviços Digitais de Ponta:**  
-  Desde a abertura de contas até suporte no app, a Caixa mostra que está pronta para as demandas da era digital.  
+  Demonstrações dos principais apps que a Caixa possui e principais projetos que pretenderão atender as demandas da era digital.  
 
 ---
 
-# 🏛️ Espaço Físico: A \"Estação Caixa\" no Caixa Cultural
+# 🏛️ Espaço Físico: A \"Estação Caixa \" no Caixa Cultural
 
 ## 🎨 Ideias para Áreas Temáticas
 - **Educação Financeira:**  
-  Exposições interativas sobre poupança, investimentos e controle financeiro.  
+  Exposições interativas voltada a todos os públicos
 - **Tecnologia no Dia a Dia:**  
   Demonstrações práticas de como usar aplicativos e ferramentas financeiras.  
-- **Zona Infantil:**  
-  Atividades lúdicas para as crianças aprenderem brincando sobre o valor do dinheiro.  
-
-## 🔰 Setor \"Ponto de Partida\"
-- **Orientação:**  
-  Espaço para dúvidas sobre produtos e serviços financeiros.  
-- **Praticidade:**  
-  Totens ou suporte de colaboradores para abertura de contas digitais na hora!  
+- **Público Infantil:**  
+  Atividades lúdicas para as crianças aprenderem brincando sobre o valor do dinheiro.
+  Distribuição de materias ou mascotes impressos.
+  - **História da Caixa**
+  Área que abrangeria um pouco da história da empresa, desde sua fundação até os dias de hoje, com curiosidades e fatos relevantes.
+   
 
 ## 🎉 Eventos e Oficinas
 - **Cursos Rápidos:**  
@@ -48,7 +45,7 @@
 
 ---
 
-# 🤖 Contribuição das IAs no Espaço Físico
+# 🤖 Como as IAs poderiam Contirbuir também no espaço Físico?
 
 ### 🛠️ Atendimento Personalizado
 - **Assistentes Virtuais:**  
