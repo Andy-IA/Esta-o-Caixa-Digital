@@ -23,7 +23,7 @@ Durante essa jornada, exploramos ideias, validamos conceitos e desenvolvemos pro
 
 4. [Validação pela IA sobre o impacto social do projeto](https://github.com/Andy-IA/Estacao-Caixa-Digital/blob/main/Valida%C3%A7%C3%A3o%20por%20parta%20da%20IA%20sobre%20o%20projeto%20CAIXA%20%E2%80%93%20Criando%20Impacto%20Social%20com%20IA.md)  
 
-    Ante de finalizar, testei alguns modelos, e realizei analise de viabilidade sobre o real potencial transformador da Estação Caixa Digital, o resultado foi impressionante.
+    Antes de finalizar, testei alguns modelos, e realizei análise de viabilidade sobre o real potencial transformador da Estação Caixa Digital, o resultado foi impressionante.
 
    **IMPORTANTE**
 
