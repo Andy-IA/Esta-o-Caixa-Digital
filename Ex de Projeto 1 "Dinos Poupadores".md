@@ -26,3 +26,18 @@ Etapas de Desenvolvimento com IA:
             "Desenvolva as regras para um jogo infantil onde crianças ajudam Dino Poupador a economizar folhas douradas. O jogo deve ter 3 níveis: (1) evitar gastos desnecessários com frutas doces, (2) encontrar folhas escondidas, e (3) decidir quanto guardar e quanto gastar para construir uma cabana."
 
         Resultado esperado: Um jogo interativo simples, com história e missões educativas.
+
+
+História Infantil: "Dino Poupador e a Clareira Mágica"
+
+Dino Poupador era um dinossauro muito esperto. Ele morava em uma clareira mágica onde todas as frutas eram doces e deliciosas. Mas havia um problema: os outros dinossauros sempre comiam tudo de uma vez e ficavam sem nada quando o inverno chegava.
+
+Um dia, Dino teve uma ideia brilhante: “E se guardássemos algumas folhas douradas (dinheiro) para os dias frios?” Seus amigos, no começo, riram. “Por que guardar se podemos gastar tudo agora?”, perguntaram. Dino explicou: “Se vocês guardarem um pouco, poderão comprar frutas doces até no inverno!”
+
+Eles começaram a guardar suas folhas douradas em potes seguros. No inverno, enquanto outros dinossauros passavam fome, a turma de Dino tinha frutas doces para dividir. Foi assim que eles aprenderam a poupar e viveram felizes e preparados para qualquer estação!
+
+Moral da história: Guardar um pouco hoje pode salvar o dia amanhã.
+
+Ilustração Sugestiva: Dino e seus amigos organizando potes coloridos cheios de folhas douradas, enquanto comem frutas ao redor de uma fogueira no inverno.
+
+Jogo Interativo: Um jogo simples onde as crianças ajudam Dino a guardar folhas douradas e evitar pegadinhas, como frutas doces demais ou potes furados.
