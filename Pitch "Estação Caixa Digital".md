@@ -22,7 +22,7 @@ Aproveitar os espaços físicos da Caixa Cultural para criar uma experiência im
   - Cultura: História da Caixa e seu impacto no Brasil.
 
 - **Atividades Lúdicas:**
-  - Zona infantil com os Poupançudos ensinando sobre dinheiro.
+  - Área infantil com os Poupançudos (ou outros mascotes) ensinando sobre dinheiro.
   - Jogos interativos para adolescentes e jovens adultos.
 
 - **Ponto de Partida:**
