@@ -15,7 +15,7 @@ Durante essa jornada, exploramos ideias, validamos conceitos e desenvolvemos pro
 2. [Como a IA Pode Ajudar no Projeto](https://github.com/Andy-IA/Estacao-Caixa-Digital/blob/main/Como%20a%20IA%20Pode%20Ajudar%20no%20Projeto.md)  
 
    Algumas IAs foram testadas (Chatgpt, Copilot, etc), e provaram-se importantes ferramentas tanto como auxiliares do processo criativo, quanto construtoras de conteúdo na parte de execução.
-   A inteligência artificial foi integrada em todas as etapas, e pode inclusive, caso haja interesse por parte da empresa, fazer que em pouco tempo o projeto "Estação Caixa Digital" entre em funcionamento on-line.
+   A inteligência artificial foi integrada em todas as etapas, e pode inclusive, caso haja interesse por parte da empresa, fazer com que, em pouco tempo, o projeto "Estação Caixa Digital" entre em funcionamento on-line.
 
 3. [Exemplo de projeto feito com engenharia de prompt e ChatGPT](https://github.com/Andy-IA/Estacao-Caixa-Digital/blob/main/Ex%20de%20projeto%20feito%20com%20engenharia%20de%20prompt%20e%20chatgpt.md)  
 
