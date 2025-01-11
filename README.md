@@ -2,7 +2,7 @@
 
 ## 🌟 A Jornada
 
-A **Estação Caixa Digital** nasceu da ideia de fortalecer a marca CAIXA através de um projeto que uniria tecnologia, cultura e educação financeira para criar impacto social. 
+A **Estação Caixa Digital** nasceu da ideia de fortalecer a marca CAIXA através de um projeto que unirá tecnologia, cultura e educação financeira para criar impacto social. 
 
 Durante essa jornada, exploramos ideias, validamos conceitos e desenvolvemos protótipos que ilustram o potencial transformador do projeto.
 
