@@ -34,13 +34,13 @@ Durante essa jornada, exploramos ideias, validamos conceitos e desenvolvemos pro
 Alguns exemplo que foram desenvolvidos com ajuda da IA e que ja poderiam ser finalizados e utilizado numa possível execução do projeto (acompanha os prompts)
 
    - [Dinos Poupadores](https://github.com/Andy-IA/Estacao-Caixa-Digital/blob/main/Ex%20de%20Projeto%201%20%22Dinos%20Poupadores%22.md): Um projeto lúdico para crianças sobre educação financeira.
-   -  
+     
    - [Curiosidades da Caixa](https://github.com/Andy-IA/Estacao-Caixa-Digital/blob/main/Ex%20de%20Projeto%202%20%22Curiosidades%20da%20Caixa%22.md): Um conteúdo educativo e divertido sobre a história e relevância da Caixa.
 
 6. [Feedback sobre o processo criativo e prompts utilizados](https://github.com/Andy-IA/Estacao-Caixa-Digital/blob/main/Feedback%20dado%20pela%20IA%20sobre%20processo%20criativo%20e%20prompts%20utilizados.md)  
 
     Pedi para a IA analisar o processo criativo e construtivo, deixei no link acima o Feedback.
-
+___
 7. Pitch da versão final
 
  [Pitch "Estação Caixa Digital"](https://github.com/Andy-IA/Estacao-Caixa-Digital/blob/main/Pitch%20%22Esta%C3%A7%C3%A3o%20Caixa%20Digital%22.md)  
