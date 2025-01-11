@@ -27,7 +27,7 @@ Aproveitar os espaços físicos da Caixa Cultural para criar uma experiência im
 
 - **Ponto de Partida:**
   - Stand para dúvidas sobre serviços financeiros.
-  - Totens para abertura de contas digitais e suporte ao app Caixa.
+  - Possível abertura de contas digital na versão beta do app Caixa.
   - Entrega de materiais educativos e brindes personalizados.
 
 ##### **Estação Caixa Digital (Plataforma Online)**
@@ -75,7 +75,7 @@ Uma extensão digital acessível a todos, oferecendo conteúdo interativo e educ
 - Modernização da imagem institucional.
 
 ##### **Expansão da Base de Clientes:**
-- Atrai novos clientes ao oferecer conteúdo relevante e experiências memoráveis.
+- Atrair novos clientes ao oferecer conteúdo relevante e experiências diferenciadas.
 - Incentiva a abertura de contas digitais e utilização de serviços financeiros.
 
 ##### **Fortalecimento do Propósito Social:**
