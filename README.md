@@ -27,7 +27,7 @@ Durante essa jornada, exploramos ideias, validamos conceitos e desenvolvemos pro
 
    **IMPORTANTE**
 
-   **Tenho bastante experiência prática na área para qual pensei o projeto (Estação Ciência USP, Show de Física USP, etc), então tenho plena confiança em seus potencial e como ele iria agregar positivamente em diversos aspectos para a empresa, seja engrandecendo a marca através da difusão cultural, seja expandindo a base de clientes, incluindo aqui um público de faixa etária mais nova. Mas mesmo assim, apesar da boa engenharia de prompt utilizada, fiquei impressionado com a capacidade assertiva da IA generativa em entender o modelo, desenvolver projetos (validei alguns e todos executáveis e aderentes) e poder através do machine learning dar continuidade, ou devolver protótipos tão bem elaboradas.**
+   **Tenho bastante experiência prática na área para qual pensei o projeto (Estação Ciência USP, Show de Física USP, etc), então tenho plena confiança em seu potencial e como iria agregar positivamente em diversos aspectos para a empresa, seja engrandecendo a marca através da difusão cultural, seja expandindo a base de clientes, incluindo aqui um público de faixa etária mais nova. Mas mesmo assim, apesar da boa engenharia de prompt utilizada, fiquei impressionado com a capacidade assertiva da IA generativa em entender o modelo, desenvolver projetos (validei alguns e todos executáveis e aderentes) e poder através do machine learning dar continuidade, ou devolver protótipos tão bem elaboradas.**
 
 5. Exemplos Práticos de Conteúdo
 
