@@ -7,6 +7,12 @@ A **Estação Caixa Digital** nasceu da ideia de fortalecer a marca CAIXA atrav�
 Durante essa jornada, exploramos ideias, validamos conceitos e desenvolvemos protótipos que ilustram o potencial transformador do projeto.
 
 ## 🔗 Artigos relevantes do Projeto
+
+___
+
+0. [**Breve Fundamentação Teórica**](https://github.com/Andy-IA/Estacao-Caixa-Digital/blob/main/Breve%20Fundamenta%C3%A7%C3%A3o%20Te%C3%B3rica.md)
+
+   "Marco Zero" - O ponto de partida foi confirmar se o projeto poderia ser realmente relevante para a sociedade e consequentemente para a Caixa.
 ___
 
 1. [Brainstorm sobre o tema](https://github.com/Andy-IA/Estacao-Caixa-Digital/blob/main/Brainstorm%20sobre%20o%20tema.md)  
