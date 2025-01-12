@@ -1,5 +1,7 @@
 ### **Pitch: Estação Caixa e Estação Caixa Digital**
 
+![Protótipo Imagem](https://github.com/Andy-IA/Estacao-Caixa-Digital/blob/bc324b88c382332f134382d080e0b70e9075d211/DALL%C2%B7E-%20Prot%C3%B3tipo%20Imagem.jpg) 
+
 ---
 
 #### **1. Introdução**
