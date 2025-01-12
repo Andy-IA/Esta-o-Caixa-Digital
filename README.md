@@ -1,5 +1,7 @@
 # 🚀 Estação Caixa Digital
 
+![Estação Caixa Digital](https://github.com/Andy-IA/Estacao-Caixa-Digital/blob/bc324b88c382332f134382d080e0b70e9075d211/Esta%C3%A7%C3%A3o%20Caixa%20Digital.jpg)
+
 ## 🌟 A Jornada
 
 A **Estação Caixa Digital** nasceu da ideia de fortalecer a marca CAIXA através de um projeto que unirá tecnologia, cultura e educação financeira para criar impacto social. 
