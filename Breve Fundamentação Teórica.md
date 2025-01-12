@@ -1,4 +1,4 @@
-# **README: Estação Caixa Digital – Fortalecimento de Marcas e Impacto Social**
+# **Estação Caixa Digital – Fortalecimento de Marcas e Impacto Social**
 
 ---
 
